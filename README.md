@@ -125,16 +125,16 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 
 ## activity_main.xml
-<img width="1918" height="1088" alt="image" src="https://github.com/user-attachments/assets/3a6d95ef-0990-46a0-aae3-bdfd4f83d420" />
+<img width="959" height="506" alt="image" src="https://github.com/user-attachments/assets/88603da8-d177-4510-8f4e-7d3bb11d373b" />
 
 ## MainActivity.java
-<img width="1919" height="1087" alt="image" src="https://github.com/user-attachments/assets/8da3b684-1f46-4273-b9ce-b25dc00988b3" />
+<img width="959" height="504" alt="image" src="https://github.com/user-attachments/assets/7b0a0524-0f90-4a8c-acf0-f225406e0ffb" />
 
 ## Implicit Intent
-<img width="434" height="929" alt="image" src="https://github.com/user-attachments/assets/5b95403b-6270-44d1-a03e-dfb991a013ff" />
+<img width="490" height="919" alt="image" src="https://github.com/user-attachments/assets/31fbe195-ea6c-4961-af48-e979f5eae366" />
 
 ## Navigation
-<img width="522" height="939" alt="image" src="https://github.com/user-attachments/assets/0aaafd32-74a2-4fe3-ab35-25863ddb688d" />
+<img width="239" height="457" alt="image" src="https://github.com/user-attachments/assets/7c6ac3b8-8695-41f1-9480-bd65af5ca6a1" />
 
 
 ## RESULT
